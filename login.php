@@ -36,6 +36,5 @@ and password='".md5($password)."'";
 </form>
 
 </div>
-<?php } ?>
 </body>
 </html>
