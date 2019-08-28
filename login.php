@@ -24,7 +24,7 @@ and password='".md5($password)."'";
 <h3>Error logging you in</h3>
 <br/>Click here to <a href='login.php'>Login</a></div>";
 	}
-    }else{
+    }
 ?>
 <div class="form">
 <h1>Log In</h1>
